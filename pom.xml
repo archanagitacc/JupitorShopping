@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>JupitorToysShoppingAutomation</groupId>
-	<artifactId>JupitorToysShopping</artifactId>
+	<artifactId>JupitorToysShoppingAutomation</artifactId>
 	<version>1.0</version>
 
 	<properties>
