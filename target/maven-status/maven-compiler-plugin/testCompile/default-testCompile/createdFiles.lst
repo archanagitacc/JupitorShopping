@@ -1,0 +1,5 @@
+stepdefinitions\HomeSteps.class
+stepdefinitions\Hooks.class
+stepdefinitions\ContactUsSteps.class
+stepdefinitions\ProductDetailSteps.class
+Runners\TestRunner.class

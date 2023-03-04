@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+  <name>JupitorToysShoppingAutomation</name>
+  <comment>Project for Jupitor Shopping Site</comment>
+  <projects/>
+  <buildSpec>
+    <buildCommand>
+      <name>org.eclipse.jdt.core.javabuilder</name>
+    </buildCommand>
+    <buildCommand>
+      <name>org.eclipse.m2e.core.maven2Builder</name>
+    </buildCommand>
+    <buildCommand>
+      <name>cucumber.eclipse.builder.stepdefinition</name>
+    </buildCommand>
+    <buildCommand>
+      <name>cucumber.eclipse.builder.gherkin</name>
+    </buildCommand>
+  </buildSpec>
+  <natures>
+    <nature>cucumber.eclipse.nature</nature>
+    <nature>org.eclipse.jdt.core.javanature</nature>
+    <nature>org.eclipse.m2e.core.maven2Nature</nature>
+  </natures>
+</projectDescription>
