@@ -31,9 +31,7 @@ public class ContactUsSteps {
 
     @When("User populate mandatory fields forename as {string} and email as {string} and message as {string}")
     public void populateMandatoryFieldsInContactForm(String foreName, String email, String message) {
-        System.out.println("---" + foreName);
-        System.out.println("---" + email);
-        System.out.println("---" + message);
+      
         contactUsPage.fillContactFormData(foreName,email,message);
     }
 
